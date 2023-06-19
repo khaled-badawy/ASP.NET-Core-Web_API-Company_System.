@@ -1,0 +1,15 @@
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.BL\bin\Debug\net7.0\Company.BL.deps.json
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.BL\bin\Debug\net7.0\Company.BL.dll
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.BL\bin\Debug\net7.0\Company.BL.pdb
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.BL\bin\Debug\net7.0\Company.DAL.dll
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.BL\bin\Debug\net7.0\Company.DAL.pdb
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.BL\obj\Debug\net7.0\Company.BL.csproj.AssemblyReference.cache
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.BL\obj\Debug\net7.0\Company.BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.BL\obj\Debug\net7.0\Company.BL.AssemblyInfoInputs.cache
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.BL\obj\Debug\net7.0\Company.BL.AssemblyInfo.cs
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.BL\obj\Debug\net7.0\Company.BL.csproj.CoreCompileInputs.cache
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.BL\obj\Debug\net7.0\Company.BL.csproj.CopyComplete
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.BL\obj\Debug\net7.0\Company.BL.dll
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.BL\obj\Debug\net7.0\refint\Company.BL.dll
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.BL\obj\Debug\net7.0\Company.BL.pdb
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.BL\obj\Debug\net7.0\ref\Company.BL.dll

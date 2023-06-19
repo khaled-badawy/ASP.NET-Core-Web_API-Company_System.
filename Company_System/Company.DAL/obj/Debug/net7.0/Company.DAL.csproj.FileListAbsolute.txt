@@ -1,0 +1,14 @@
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.DAL\bin\Debug\net7.0\Company.DAL.deps.json
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.DAL\bin\Debug\net7.0\Company.DAL.runtimeconfig.json
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.DAL\bin\Debug\net7.0\Company.DAL.dll
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.DAL\bin\Debug\net7.0\Company.DAL.pdb
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.DAL\obj\Debug\net7.0\Company.DAL.csproj.AssemblyReference.cache
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.DAL\obj\Debug\net7.0\Company.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.DAL\obj\Debug\net7.0\Company.DAL.AssemblyInfoInputs.cache
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.DAL\obj\Debug\net7.0\Company.DAL.AssemblyInfo.cs
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.DAL\obj\Debug\net7.0\Company.DAL.csproj.CoreCompileInputs.cache
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.DAL\obj\Debug\net7.0\Company.DAL.dll
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.DAL\obj\Debug\net7.0\refint\Company.DAL.dll
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.DAL\obj\Debug\net7.0\Company.DAL.pdb
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.DAL\obj\Debug\net7.0\Company.DAL.genruntimeconfig.cache
+F:\ITI (GIS TRACK)\Web API\Tasks\Day 2\Comany_System\Company.DAL\obj\Debug\net7.0\ref\Company.DAL.dll
